@@ -9,3 +9,6 @@ for the following data requirements:
 
 3. Top 25 female adult influencers who have maximum adult female followers (arranged in
 descending order of total followers) (in absolute numbers).
+
+Sample db :
+http://sqlfiddle.com/#!9/068eb3e/9
